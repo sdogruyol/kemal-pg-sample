@@ -1,0 +1,10 @@
+version: 1.0
+shards:
+  kemal:
+    github: kemalcr/kemal
+    commit: 5e1460bd315d40d6102586ee61e7102bacdcd887
+
+  pg:
+    github: will/crystal-pg
+    commit: cafe61b4384b85677ff04110ba882222fb52ba7c
+

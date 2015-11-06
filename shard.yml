@@ -1,0 +1,15 @@
+name: kemal-pg-app
+version: 0.1.0
+
+authors:
+  - Serdar Dogruyol <dogruyolserdar@gmail.com>
+
+license: MIT
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+    branch: master
+  pg:
+    github: will/crystal-pg
+    branch: master
